@@ -35,10 +35,6 @@ ease of presentation ke liye use karre hai
 see the code for further logic
 */
 
-//Issue:
-//TC nhi pata iski
-//combine wala part ache se nhi samza
-
 #include<iostream>
 using namespace std;
 
